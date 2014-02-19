@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sevic</string>
+    <string name="action_settings">设置</string>
+    <string name="display_mode">图像模式设置</string>
+    <string name="display_init">图像模式初始化</string>
+    <string name="brightness">亮度</string>
+    <string name="chroma">色调</string>
+    <string name="contrast">对比度</string>
+    <string name="saturation">饱和度</string>
+    <string name="color_temp">色温</string>
+    <string name="hdr">动态对比度</string>
+    <string name="smart_color">智能颜色管理</string>
+    <string name="noise_reduction">降噪使能</string>
+    <string name="film_detection">电影源检测使能</string>
+    <string name="sharpen">sharpen强度</string>
+    <string name="zero">0</string>
+    <string name="reset_to_default">恢复默认值</string>
+    <string name="reset">复位</string>
+    <string name="video_setting">显示设置</string>
+    <string name="reset_hint">确认需要复位至初始状态吗?</string>
+</resources>

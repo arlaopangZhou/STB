@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sevic</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_mode">Display Mode</string>
+    <string name="display_init">Reset Display Setting</string>
+    <string name="brightness">Brightness</string>
+    <string name="chroma">Hue</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="color_temp">Color Temperature</string>
+    <string name="hdr">Dynamic Contrast</string>
+    <string name="smart_color">Intelligent Color</string>
+    <string name="noise_reduction">Denoise</string>
+    <string name="film_detection">Film Mode Detection</string>
+    <string name="sharpen">Sharpeness</string>
+    <string name="zero">0</string>
+    <string name="reset_to_default">Reset to Default</string>
+    <string name="reset">Reset</string>
+    <string name="video_setting">Video Setting</string>
+    <string name="reset_hint">Do you really want to reset?</string>
+    <string name="app_name_notfullscreen">SevicFront</string>
+    <string name="title_activity_nfs_main">NfsMainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
