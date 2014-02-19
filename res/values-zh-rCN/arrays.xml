@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="color_temp_array">
+        <item>Disable</item>
+        <item>Cold</item>
+        <item>Middle</item>
+        <item>Warm</item>
+    </string-array>
+    <string-array name="color_temp_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="hdr_array">
+        <item>Disable</item>
+        <item>High</item>
+        <item>Middle</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="hdr_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="smart_color_array">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>BG</item>
+        <item>Skin</item>
+        <item>Vivid</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="smart_color_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="display_mode_array">
+        <item>natural</item>
+        <item>people</item>
+        <item>film</item>
+        <item>user-defined</item>
+    </string-array>
+    <string-array name="display_mode_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="onoff_array">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="onoff_value_array">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+</resources>
