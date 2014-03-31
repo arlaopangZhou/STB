@@ -2,10 +2,10 @@
 <resources>
 
     <string-array name="color_temp_array">
-        <item>Disable</item>
-        <item>Cold</item>
-        <item>Middle</item>
-        <item>Warm</item>
+        <item>关闭</item>
+        <item>冷色温</item>
+        <item>中等色温</item>
+        <item>暖色温</item>
     </string-array>
     <string-array name="color_temp_value_array">
         <item>0</item>
@@ -14,10 +14,10 @@
         <item>3</item>
     </string-array>
     <string-array name="hdr_array">
-        <item>Disable</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
+        <item>关闭</item>
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
     </string-array>
     <string-array name="hdr_value_array">
         <item>0</item>
@@ -26,12 +26,12 @@
         <item>3</item>
     </string-array>
     <string-array name="smart_color_array">
-        <item>Blue</item>
-        <item>Green</item>
-        <item>BG</item>
-        <item>Skin</item>
-        <item>Vivid</item>
-        <item>Disable</item>
+        <item>蓝色增强</item>
+        <item>绿色增强</item>
+        <item>蓝绿增强</item>
+        <item>肤色增强</item>
+        <item>生动</item>
+        <item>关闭</item>
     </string-array>
     <string-array name="smart_color_value_array">
         <item>0</item>
@@ -42,10 +42,10 @@
         <item>5</item>
     </string-array>
     <string-array name="display_mode_array">
-        <item>natural</item>
-        <item>people</item>
-        <item>film</item>
-        <item>user-defined</item>
+        <item>自然</item>
+        <item>人物</item>
+        <item>电影</item>
+        <item>自定义</item>
     </string-array>
     <string-array name="display_mode_value_array">
         <item>0</item>
@@ -54,8 +54,8 @@
         <item>3</item>
     </string-array>
     <string-array name="onoff_array">
-        <item>Enable</item>
-        <item>Disable</item>
+        <item>打开</item>
+        <item>关闭</item>
     </string-array>
     <string-array name="onoff_value_array">
         <item>1</item>

@@ -13,10 +13,12 @@
     <string name="smart_color">智能颜色管理</string>
     <string name="noise_reduction">降噪使能</string>
     <string name="film_detection">电影源检测使能</string>
-    <string name="sharpen">sharpen强度</string>
+    <string name="sharpen">锐化强度</string>
     <string name="zero">0</string>
     <string name="reset_to_default">恢复默认值</string>
     <string name="reset">复位</string>
     <string name="video_setting">显示设置</string>
     <string name="reset_hint">确认需要复位至初始状态吗?</string>
+    <string name="reset_yes">是</string>
+    <string name="reset_no">否</string>
 </resources>
